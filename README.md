@@ -5,4 +5,4 @@ Source of data:
 https://data.cdrc.ac.uk/dataset/cdrc-2015-os-geodata-pack-dover-e07000108
 https://data.cdrc.ac.uk/dataset/cdrc-2011-oac-geodata-pack-dover-e07000108
 
-The result are the maps in 2 pdf files
+The results are the maps in 2 pdf files.
